@@ -9,6 +9,6 @@
 
 
 <p align="center"> 
-  Sou estundante da Ilum Escola de Ciência, em Campinas, SP. Aqui desenvolvemos diversos projetos interdisciplinares e muitos deles requerem recursos computacionais. Não sou programadora mas estou dando o meu melhor para aprender! Os arquivos aqui presentes traram conteúdos de deversas áreas, com textos introdutórios e contextualizações sobre o que está sendo desenvolvido.
+  Sou estundante da Ilum Escola de Ciência, em Campinas, SP. Aqui desenvolvemos diversos projetos interdisciplinares e muitos deles requerem recursos computacionais. Não sou programadora mas estou dando o meu melhor para aprender! Os arquivos aqui presentes traram conteúdos de diversas áreas, com textos introdutórios e contextualizações sobre o que está sendo desenvolvido.
 </p>
 
